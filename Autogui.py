@@ -137,7 +137,6 @@ if __name__ == '__main__':
     # get mouse position
     position = autogui.position()
     
-    # time.sleep(2)
-    
+    # write text
     autogui.typewrite("hellllo df")
     
